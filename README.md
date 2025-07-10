@@ -1,4 +1,4 @@
-# mini C shell
+<h1 align="center"># mini C shell</h1>
 
 By me and @nathalialmota.
 
@@ -15,3 +15,6 @@ To run it with the suppressor for readline leaks, use the following command:
 valgrind -s --leak-check=full --show-leak-kinds=all --track-origins=yes --suppressions=readline.supp ./minishell
 
 
+<div align="center">
+    <img src="mini_sea_shell.gif">
+</div>
